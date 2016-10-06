@@ -1,7 +1,7 @@
 # Tar-Heel-Reader
 Repository for managing the Tar Heel Reader project by the UNC Data Analytics Club.
 
-Data can be downloaded here ( *they are pickled DataFrames* ):
+Data can be downloaded here ( *they are pickled python DataFrames* ):
 
 Books: https://drive.google.com/open?id=0B67EyQ9RoKqPQ3RvdS1HUHBFVm8
 
