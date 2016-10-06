@@ -1,5 +1,5 @@
 # Tar-Heel-Reader
-Repository for managing the Tar Heel Reader project by the UNC Data Analytics Club.
+Repository for managing the Tar Heel Reader project by the Carolina Analytics and Data Science club.
 
 Data can be downloaded here ( *they are pickled python DataFrames* ):
 
