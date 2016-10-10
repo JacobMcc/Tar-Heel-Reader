@@ -6,5 +6,5 @@ Data can be downloaded here ( *they are pickled pandas DataFrames* ):
 Books: https://drive.google.com/open?id=0B67EyQ9RoKqPQ3RvdS1HUHBFVm8
 
 Text: https://drive.google.com/open?id=0B67EyQ9RoKqPOUhHYkpwTUFMOWM
-
-
+ 
+Email: jacobmcc@live.unc.edu
