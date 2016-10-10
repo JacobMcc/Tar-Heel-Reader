@@ -7,6 +7,4 @@ Books: https://drive.google.com/open?id=0B67EyQ9RoKqPQ3RvdS1HUHBFVm8
 
 Text: https://drive.google.com/open?id=0B67EyQ9RoKqPOUhHYkpwTUFMOWM
 
-I will update with user-log data once Dr. Bishop sends it to me.
 
-Email: jacobmcc@live.unc.edu
